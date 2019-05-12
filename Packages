@@ -1,12 +1,12 @@
 Package: com.cokepokes.phantom
-Name: Phantom12
+Name: Phantom (Lite) for Snapchat
 Version: 5.3.8-6
 Size: 7,955,140
 Architecture: iphoneos-arm
 Description: Phantom foe IOS11&12 for SC 10.22.0
 Maintainer: BluePlus
 Author: CokePokes
-Section: tweaks
+Section: Tweaks
 MD5sum: 330bcaf4d5b0857a8cb6a0dff3b35a73
 SHA1sum: 12180e450f29ea8301e2edf6ff07a82c9027923b
 SHA256sum: fcde9ae4fed1cab1423c69f5fa50145ecfb3d64251b151d3c21f2c419f14a4d1
