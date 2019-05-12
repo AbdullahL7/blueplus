@@ -1,14 +1,14 @@
-Package: com.blueplus.cercubecrack
-Version: 0.0.1
+Package: com.cokepokes.phantom
+Name: Phantom12
+Version: 5.3.8-6
+Size: 7,955,140
 Architecture: iphoneos-arm
+Description: Phantom foe IOS11&12 for SC 10.22.0
 Maintainer: BluePlus
-Depends: me.alfhaily.cercube
-Filename: /CercubeCrack.deb
-Size: 52,262
-MD5sum: 4385cf89c526103ffe34218a875afdbc
-SHA1: b798255cc4c8e42e8c5b2e1148b54d040e1d4239
-SHA256: 2889c16649427526ff009568e372779a149cfba1db619546f5e4efda60425b9d
+Author: CokePokes
 Section: tweaks
-Description: إزالة إعلانات cercube
-Author: BluePlus
-Name: CercubeCrack
+MD5sum: 330bcaf4d5b0857a8cb6a0dff3b35a73
+SHA1sum: 12180e450f29ea8301e2edf6ff07a82c9027923b
+SHA256sum: fcde9ae4fed1cab1423c69f5fa50145ecfb3d64251b151d3c21f2c419f14a4d1
+Filename: debs//Phantom.deb
+
